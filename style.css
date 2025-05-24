@@ -127,6 +127,7 @@ font-size: 1.5rem;
 
 #container-1 p, ul{
     font-size: 1.5rem;
+    color: #d1d2ce;
 }
 
 #container-2 h1{
@@ -138,6 +139,8 @@ font-size: 1.5rem;
 
 #container-2 p, ul{
     font-size: 1.5rem;
+    color: #d1d2ce;
+
 }
 
 footer {
@@ -145,5 +148,6 @@ line-height: 40px;
 display: flex;
 justify-content: center;
 font-size: 1rem;
-background-color: #2E4256;
+background-color: linear-gradient(to right, rgba(255, 255, 255, 0.527), black);
+color: #d1d2ce;
 }
