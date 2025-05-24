@@ -1,3 +1,5 @@
 # wisdomsquare.github.io
 
-### tf is this bullshit
+## Personal website tryout.
+
+
