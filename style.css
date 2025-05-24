@@ -21,8 +21,8 @@ box-sizing: border-box;
 }
 
 header{
-background: linear-gradient(to right, white, black);
-color: #91354D;
+background: linear-gradient(to right, rgba(255, 255, 255, 0.527), black);
+color: #d1d2ce;
 height: 80px;
 top: 0;
 width: 100%;
@@ -44,10 +44,9 @@ position: sticky;
     position: absolute;            /* Make the text absolutely centered */
     left: 50%;                     /* Position it in the center of the header */
     transform: translateX(-50%);   /* Adjust to ensure perfect centering */
-    color: #fff;                   /* Text color */
+    color: #d1d2ce;                  /* Text color */
     font-size: 3rem;               /* Adjust text size */
     text-align: center;            /* Align text center */
-    color: #91354D;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -79,7 +78,7 @@ margin-left: 20px;
 
 nav ul li a{
 text-decoration: none;
-color: #91354D;
+color: #d1d2ce;
 font-size: 1.5rem;
 font-weight: bold;
 padding: 10px 15px;
@@ -134,7 +133,7 @@ font-size: 1.5rem;
     margin-top: 2%;
     font-size: 3em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #91354D;
+    color: #d1d2ce;
 }
 
 #container-2 p, ul{
