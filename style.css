@@ -1,5 +1,9 @@
 
 body, ul {
+background-image: url('john-towner-JgOeRuGD_Y4-unsplash.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 padding: 0;
 margin: 0;
 list-style: none;
@@ -144,17 +148,3 @@ justify-content: center;
 font-size: 1rem;
 background-color: #2E4256;
 }
-
-index.html {
-    
-    background-image: url('john-towner-JgOeRuGD_Y4-unsplash.jpg'); /* Replace with your image path */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    }
-about.html{
-    background-color: #2E4256;
-    }
-contacht.html {
-    background-color: #91354D;
-    }
